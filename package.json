@@ -62,7 +62,7 @@
     "webpack": "^4.39.2"
   },
   "devDependencies": {
-    "electron-prebuilt-compile": "^4.0.0",
+    "electron-prebuilt-compile": "3.0.13",
     "@electron-forge/cli": "6.0.0-beta.43",
     "@electron-forge/maker-deb": "6.0.0-beta.43",
     "@electron-forge/maker-rpm": "6.0.0-beta.43",
