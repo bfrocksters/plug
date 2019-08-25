@@ -10,12 +10,13 @@
     "package": "electron-forge package",
     "make": "electron-forge make",
     "publish": "electron-forge publish",
-    "lint": "echo \"No linting configured\""
+    "lint": "echo \"No linting configured\"",
+    "prepack": "yarn build:ui"
   },
   "keywords": [],
   "author": {
-    "name": "krishnasagarrayudu",
-    "email": "krishnasagar.r@sonata-software.com"
+    "name": "solo474",
+    "email": "sagar474@hotmail.com"
   },
   "license": "MIT",
   "config": {
