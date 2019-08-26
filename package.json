@@ -52,6 +52,7 @@
     "@babel/preset-react": "^7.0.0",
     "babel-loader": "^8.0.6",
     "electron": "5.0.7",
+    "electron-prebuilt-compile": "1.4.3",
     "electron-squirrel-startup": "^1.0.0",
     "isomorphic-git": "^0.55.6",
     "nedb": "1.8.0",
@@ -59,11 +60,12 @@
     "open-terminal": "0.0.2",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
-    "webpack": "^4.39.2",
-    "electron-prebuilt-compile": "1.4.3"
+    "react-router-dom": "^5.0.1",
+    "reactackle": "^1.1.3",
+    "styled-components": "^4.3.2",
+    "webpack": "^4.39.2"
   },
   "devDependencies": {
-    "electron-prebuilt-compile": "1.4.3",
     "@electron-forge/cli": "6.0.0-beta.43",
     "@electron-forge/maker-deb": "6.0.0-beta.43",
     "@electron-forge/maker-rpm": "6.0.0-beta.43",
