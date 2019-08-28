@@ -1,4 +1,4 @@
 # PLUG
 ## GET ELECTRICITY TO YOUR FRONTEND CODE BASE
 
-![plug](logo "Logo Title Text 1")
+![logo](./logo.png "Logo Title Text 1")
