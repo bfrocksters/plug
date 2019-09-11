@@ -1,4 +1,5 @@
 # PLUG
 ## ELECTRICITY FOR YOUR FRONTEND CODE BASE
 
-![logo](./logo.svg  "Logo Title Text 1")
+<img src="./logo.svg" alt="logo" width="200" style="display: inline; text-aligh: center" />
+
