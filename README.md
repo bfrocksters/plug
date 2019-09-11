@@ -4,7 +4,7 @@
 <img src="./logo.svg" alt="logo" width="200" style="display: inline; text-aligh: center" />
 
 
-## socket.config.js specification
+## socket.config.js
 
 ```
 {
