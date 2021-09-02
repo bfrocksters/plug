@@ -54,7 +54,7 @@
     "electron": "5.0.7",
     "electron-prebuilt-compile": "1.4.3",
     "electron-squirrel-startup": "^1.0.0",
-    "isomorphic-git": "^0.55.6",
+    "isomorphic-git": "^1.8.2",
     "nedb": "1.8.0",
     "node-wget": "0.4.3",
     "open-terminal": "0.0.2",
