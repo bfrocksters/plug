@@ -51,7 +51,7 @@
     "@babel/preset-env": "^7.5.5",
     "@babel/preset-react": "^7.0.0",
     "babel-loader": "^8.0.6",
-    "electron": "5.0.7",
+    "electron": "11.5.0",
     "electron-prebuilt-compile": "1.4.3",
     "electron-squirrel-startup": "^1.0.0",
     "isomorphic-git": "^0.55.6",
@@ -71,7 +71,7 @@
     "@electron-forge/maker-rpm": "6.0.0-beta.43",
     "@electron-forge/maker-squirrel": "6.0.0-beta.43",
     "@electron-forge/maker-zip": "6.0.0-beta.43",
-    "electron": "5.0.7",
+    "electron": "11.5.0",
     "webpack-cli": "^3.3.7"
   }
 }
